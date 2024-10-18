@@ -61,4 +61,7 @@ The model achieved a training accuracy of 0.8909 and a test accuracy of 0.9506.
 
 ## Ouput
 ![Demo Result](https://github.com/user-attachments/assets/b8194f18-e385-4371-aa56-e0eb61922232)
+![Confusion Matrix on Validation Set](https://github.com/user-attachments/assets/e0a475ae-0859-4402-9d4d-58730afccc96)
+
+
 
