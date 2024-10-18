@@ -1,6 +1,3 @@
-Okay, here is the script with the list of videos to be marked as "Normal":
-
-```python
 import csv
 
 # Define the list of videos to mark as Normal
