@@ -13,6 +13,7 @@ val_folder = 'Data_Split/val'
 # Image size and batch size
 img_size = (112, 112)  # Reduced image size
 batch_size = 8
+#Used 8 due to local memeory issues; Can be bumped up to 32
 
 # Data generators with rescaling for both training and validation data
 train_datagen = ImageDataGenerator(rescale=1./255)
