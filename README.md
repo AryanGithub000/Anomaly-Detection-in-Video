@@ -59,3 +59,6 @@ The model achieved a training accuracy of 0.8909 and a test accuracy of 0.9506.
 - Expansion to other environmental conditions (rain, snow, varying lighting levels)
 - Incorporation of more datasets based on environmental changes
 
+## Ouput
+![Demo Result](https://github.com/user-attachments/assets/b8194f18-e385-4371-aa56-e0eb61922232)
+
